@@ -4,7 +4,7 @@ In March 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47540601) that
 
 ## Get the data
 
-* 
+*We used data scraped from the NHS jobs website. The latest file was over 200MB and too large to share here. However, you can see the code used in the scraper below*
 
 ## Quotes and interviews
 
