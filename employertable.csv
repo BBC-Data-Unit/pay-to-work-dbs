@@ -1,0 +1,582 @@
+"","employer","sum(deduc)","count(*)"
+"1","Royal Free London NHS Foundation Trust",0,312
+"2","Manchester University NHS Foundation Trust",310,310
+"3","NELFT NHS Foundation Trust",0,308
+"4","King's College Hospital NHS Foundation Trust",0,303
+"5","Care UK",0,286
+"6","London North West University Healthcare NHS Trust",0,284
+"7","Central and North West London NHS Foundation Trust",0,279
+"8","Aneurin Bevan University Health Board",1,275
+"9","Betsi Cadwaladr University Local Health Board",0,275
+"10","Imperial College Healthcare NHS Trust",0,275
+"11","Southern Health NHS Foundation Trust",0,274
+"12","Barts Health NHS Trust",0,268
+"13","Abertawe Bro Morgannwg University Health Board",0,265
+"14","Frimley Health NHS Foundation Trust",0,264
+"15","Hampshire Hospitals NHS Foundation Trust",0,259
+"16","Guy's and St. Thomas' NHS Foundation Trust",0,253
+"17","Oxford Health NHS Foundation Trust",1,253
+"18","St George's University Hospitals NHS Foundation Trust",0,245
+"19","Nuffield Health",0,241
+"20","Hywel Dda University Health Board",0,240
+"21","Norfolk and Norwich University Hospitals NHS Foundation Trust",0,231
+"22","University College London Hospitals NHS Foundation Trust",0,224
+"23","Sussex Partnership NHS Foundation Trust",0,222
+"24","Oxford University Hospitals NHS Foundation Trust",0,218
+"25","Royal Berkshire NHS Foundation Trust",0,216
+"26","Avon and Wiltshire Mental Health Partnership NHS Trust",0,215
+"27","Brighton and Sussex University Hospitals NHS Trust",0,214
+"28","Buckinghamshire Healthcare NHS Trust",0,207
+"29","Cardiff and Vale University Health Board",0,204
+"30","Berkshire Healthcare NHS Foundation Trust",0,201
+"31","Epsom and St Helier University Hospitals NHS Trust",0,199
+"32","University Hospitals Bristol NHS Foundation Trust",0,198
+"33","East Kent Hospitals University NHS Foundation Trust",0,195
+"34","East London NHS Foundation Trust",0,192
+"35","The Huntercombe Group",0,192
+"36","East Sussex Healthcare NHS Trust",0,190
+"37","Royal Surrey County Hospital NHS Foundation Trust",0,189
+"38","Cambridge University Hospitals NHS Foundation Trust",59,187
+"39","Blackpool Teaching Hospitals NHS Foundation Trust",0,186
+"40","York Teaching Hospital NHS Foundation Trust",185,185
+"41","Lancashire Teaching Hospitals NHS Trust",0,182
+"42","Cambridgeshire and Peterborough NHS Foundation Trust",0,179
+"43","Cygnet Health Care",0,179
+"44","North West Anglia NHS Foundation Trust",0,178
+"45","South London and Maudsley NHS Foundation Trust",0,177
+"46","Southend University Hospital NHS Foundation Trust",0,175
+"47","Kent Community Health NHS Foundation Trust",0,168
+"48","Hertfordshire Partnership University NHS Foundation Trust",0,166
+"49","Somerset Partnership NHS Foundation Trust",0,164
+"50","Chelsea and Westminster Hospital NHS Foundation Trust",0,162
+"51","East and North Hertfordshire NHS Trust",0,161
+"52","Maidstone and Tunbridge Wells NHS Trust",0,161
+"53","University Hospitals of Leicester",0,161
+"54","Nottingham University Hospitals NHS Trust",1,160
+"55","Sussex Community NHS Foundation Trust",1,160
+"56","Dorset HealthCare University NHS Foundation Trust",0,157
+"57","Salford Royal NHS Foundation Trust",0,157
+"58","Lancashire Care NHS Foundation Trust",1,155
+"59","University Hospital Southampton NHS Foundation Trust",0,155
+"60","Cumbria Partnership NHS Foundation Trust",142,154
+"61","Gloucestershire Hospitals NHS Foundation Trust",0,154
+"62","North Bristol NHS Trust",0,154
+"63","North Cumbria University Hospitals NHS Trust",154,154
+"64","Cornwall Partnership NHS Foundation Trust",0,153
+"65","Tees, Esk and Wear Valleys NHS Foundation Trust ",1,152
+"66","Ashford and St. Peter's Hospitals NHS Foundation Trust",0,150
+"67","East Suffolk and North Essex NHS Foundation Trust",0,149
+"68","Lewisham and Greenwich NHS Trust",0,149
+"69","Norfolk and Suffolk NHS Foundation Trust",0,149
+"70","Humber Teaching NHS Foundation Trust",0,148
+"71","Nottinghamshire Healthcare NHS Foundation Trust",0,148
+"72","Croydon Health Services NHS Trust",0,146
+"73","University Hospitals of North Midlands NHS Trust",0,146
+"74","Sheffield Teaching Hospitals NHS Foundation Trust",0,145
+"75","Barking, Havering and Redbridge University Hospitals Trust",0,142
+"76","Cwm Taf University Health Board",0,142
+"77","The Pennine Acute  Hospitals NHS Trust",0,142
+"78","Kettering General Hospital NHS Foundation Trust",0,141
+"79","Central London Community Healthcare NHS Trust",0,139
+"80","South Warwickshire NHS Foundation Trust",0,139
+"81","Medway NHS Foundation Trust",0,137
+"82","Oxleas NHS Foundation Trust",0,137
+"83","Great Ormond Street Hospital NHS Foundation Trust",0,136
+"84","Pennine Care NHS Foundation Trust",0,136
+"85","Priory Group",0,136
+"86","Birmingham Women's and Children's NHS Foundation Trust",0,135
+"87","Leicestershire Partnership Trust",135,135
+"88","East Lancashire Hospitals NHS Trust",95,134
+"89","United Lincolnshire Hospitals NHS Trust",0,134
+"90","University Hospitals of Derby and Burton NHS Foundation Trust",0,134
+"91","Kent and Medway NHS and Social Care Partnership Trust",0,133
+"92","BMI Healthcare",0,132
+"93","Whittington Health",0,132
+"94","Basildon and Thurrock University Hospitals NHS Foundation Trust",0,130
+"95","Coventry and Warwickshire Partnership Trust (CWPT)",0,130
+"96","Surrey and Sussex  Healthcare NHS Trust",0,129
+"97","Vocare Ltd",0,129
+"98","Northumbria Healthcare NHS Foundation Trust",128,128
+"99","Greater Manchester Mental Health NHS Foundation Trust",0,127
+"100","Ramsay Health Care UK",0,127
+"101","South Tees Hospitals NHS Foundation Trust",0,127
+"102","Harrogate and District NHS Foundation Trust",0,126
+"103","Barnet Enfield and Haringey Mental Health Trust",0,125
+"104","Royal Liverpool and Broadgreen University NHS Trust",124,124
+"105","NHS Property Services Ltd",0,122
+"106","Portsmouth Hospitals NHS Trust",0,121
+"107","Mid Essex Hospital Services NHS Trust",0,120
+"108","Isle of Wight NHS Trust",0,119
+"109","Surrey and Borders Partnership NHS Foundation Trust",0,119
+"110","Taunton and Somerset NHS Foundation Trust",0,119
+"111","University Hospitals of Morecambe Bay NHS Foundation Trust",0,118
+"112","The Princess Alexandra Hospital NHS Trust",0,116
+"113","The Royal Marsden NHS Foundation Trust",0,116
+"114","Royal Cornwall Hospitals NHS Trust",0,114
+"115","University Hospitals Birmingham (Heartlands, Good Hope, Solihull)",0,114
+"116","Hertfordshire Community NHS Trust",0,113
+"117","Western Sussex Hospitals NHS Foundation Trust",0,113
+"118","The Royal Wolverhampton NHS Trust",0,112
+"119","Birmingham Community Healthcare NHS Foundation Trust",0,111
+"120","Homerton University Hospital NHS Trust",0,111
+"121","Solent NHS Trust",0,109
+"122","Essex Partnership University NHS Foundation Trust",108,108
+"123","Royal United Hospitals Bath NHS Foundation Trust",0,108
+"124","Luton and Dunstable Hospital NHS Trust",0,107
+"125","University Hospitals Coventry and Warwickshire NHS Trust",107,107
+"126","County Durham and Darlington NHS Foundation Trust",0,106
+"127","Devon Partnership NHS Trust",0,106
+"128","Stockport NHS Foundation Trust",77,106
+"129","University Hospitals Birmingham NHS Foundation Trust",0,104
+"130","Hull and East Yorkshire Hospitals NHS Trust",0,103
+"131","The Newcastle upon Tyne Hospitals NHS Foundation Trust",103,103
+"132","West Hertfordshire Hospitals NHS Trust",0,102
+"133","West London NHS Trust",0,102
+"134","The Hillingdon Hospitals NHS Foundation Trust",0,101
+"135","University Hospitals Plymouth NHS Trust",0,101
+"136","Birmingham and Solihull Mental Health NHS Foundation Trust",0,99
+"137","G4S",16,99
+"138","Sandwell and West Birmingham Hospitals NHS Trust",0,99
+"139","Torbay and South Devon NHS Foundation Trust",0,98
+"140","Derbyshire Healthcare NHS Foundation Trust",97,97
+"141","Shrewsbury and Telford Hospital NHS Trust",0,96
+"142","Poole Hospital NHS Foundation Trust",95,95
+"143","Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust",95,95
+"144","Royal National Orthopaedic Hospital NHS Trust",0,95
+"145","Northamptonshire Healthcare NHS Foundation Trust",0,94
+"146","Cheshire and Wirral Partnership NHS Foundation Trust",93,93
+"147","Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust",0,93
+"148","South Central Ambulance Service",5,93
+"149","Bedford Hospital NHS Trust",0,90
+"150","CSH Surrey",0,90
+"151","Royal Brompton and Harefield NHS Foundation Trust",0,90
+"152","Salisbury NHS Foundation Trust",0,89
+"153","South West London and St Georges Mental Health NHS Trust",0,89
+"154","Dudley Group NHS Foundation Trust",0,86
+"155","Aintree University Hospital NHS Foundation Trust",0,85
+"156","East Cheshire NHS Trust",0,84
+"157","Gloucestershire Care Services NHS Trust",0,84
+"158","Livewell Southwest CIC",0,83
+"159","South West Yorkshire Partnership NHS Foundation Trust",0,82
+"160","St Helens and Knowsley Teaching Hospitals NHS Trust",0,81
+"161","Bradford Teaching Hospitals NHS Foundation Trust",0,80
+"162","Sheffield Children's NHS Foundation Trust",80,80
+"163","Mid Yorkshire Hospitals NHS Trust",0,79
+"164","Great Western Hospitals NHS Foundation Trust",0,78
+"165","North Middlesex University Hospitals NHS Trust",0,78
+"166","Mental Health Care (UK) Ltd",0,77
+"167","Norfolk Community Health and Care NHS Trust",0,77
+"168","Bolton NHS Foundation Trust",0,76
+"169","Midlands Partnership NHS Foundation Trust",0,76
+"170","Bristol Community Health CIC",1,75
+"171","Milton Keynes University Hospital NHS Foundation Trust",0,75
+"172","Northampton General Hospital NHS Trust",0,75
+"173","Cambridgeshire Community Services NHS Trust",74,74
+"174","City Health Care Partnership CIC",0,74
+"175","Worcestershire Health and Care NHS Trust",73,73
+"176","Calderdale and Huddersfield NHS Foundation Trust",1,72
+"177","Wirral University Teaching Hospital NHS Foundation Trust",0,71
+"178","Sherwood Forest Hospitals NHS Foundation Trust",69,69
+"179","Sirona care and health CIC",0,69
+"180","Chesterfield Royal Hospital NHS Foundation Trust",5,68
+"181","Lincolnshire Partnership NHS Foundation Trust",0,68
+"182","Airedale NHS Foundation Trust",0,66
+"183","Spire Healthcare Ltd",0,65
+"184","Dorset County Hospital NHS Foundation Trust",64,64
+"185","North West Boroughs Healthcare NHS Foundation Trust",59,64
+"186","Royal Devon and Exeter NHS Foundation Trust",0,64
+"187","Dartford and Gravesham NHS Trust",0,63
+"188","James Paget University Hospitals NHS Foundation Trust",0,63
+"189","Yeovil District Hospital NHS Foundation Trust",0,63
+"190","Northumberland Tyne and Wear NHS Foundation Trust",0,62
+"191","Southport and Ormskirk Hospital NHS Trust",0,62
+"192","Walsall Healthcare NHS Trust",0,62
+"193","Tameside and Glossop Integrated Care NHS Foundation Trust",0,61
+"194","Barnsley Hospital NHS Foundation Trust",53,60
+"195","DHU Health Care CIC",0,60
+"196","Rotherham Doncaster and South Humber NHS Foundation Trust",0,60
+"197","Kingston Hospital NHS Foundation Trust",0,59
+"198","Northern Devon Healthcare Trust",0,59
+"199","West Suffolk NHS Foundation Trust",33,59
+"200","Worcestershire Acute Hospitals NHS Trust",0,59
+"201","Bradford District Care NHS Foundation Trust",0,58
+"202","Bromley Healthcare",0,58
+"203","Countess of Chester Hospital NHS Foundation Trust",58,58
+"204","Disabilities Trust",0,58
+"205","Medway Community Healthcare",0,58
+"206","Mersey Care NHS Foundation Trust",0,58
+"207","Powys Teaching Health Board",0,58
+"208","Alder Hey Children's NHS Foundation Trust",0,56
+"209","North Tees and Hartlepool NHS Foundation Trust",0,56
+"210","Sheffield Health and Social Care NHS Foundation Trust",0,56
+"211","Black Country Partnership NHS Foundation Trust",0,55
+"212","NHS Professionals - Flexible Workers",0,55
+"213","Wye Valley NHS Trust",0,55
+"214","The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust",0,54
+"215","Derbyshire Community Health Services NHS Foundation Trust",0,52
+"216","George Eliot Hospital NHS Trust",0,52
+"217","North Staffordshire Combined Healthcare NHS Trust",0,52
+"218","The Christie NHS Foundation Trust",0,52
+"219","Wiltshire Health and Care",0,52
+"220","The Rotherham NHS Foundation Trust",51,51
+"221","Wrightington, Wigan and Leigh NHS Foundation Trust",0,51
+"222","Mid Cheshire Hospitals NHS Foundation Trust",0,50
+"223","Circle Health",0,49
+"224","Gateshead Health NHS Foundation Trust",49,49
+"225","Marie Curie",0,49
+"226","Sue Ryder",0,49
+"227","Weston Area NHS Trust",0,49
+"228","Public Health England",0,47
+"229","Dudley and Walsall Mental Health Partnership NHS Trust",0,46
+"230","East of England  Ambulance Service Trust",0,46
+"231","Hounslow and Richmond Community Healthcare NHS Trust",0,46
+"232","Leeds and York Partnership NHS Foundation Trust",46,46
+"233","Camden and Islington NHS Foundation Trust",0,43
+"234","Fresenius Medical Care",0,43
+"235","Integrated Care 24 Ltd",0,43
+"236","Spa Medica",0,42
+"237","Cambian Group",0,41
+"238","Concordia Health Ltd",0,41
+"239","NAViGO CiC Ltd",0,41
+"240","Ministry of Defence (Defence Medical Services)",0,40
+"241","South Tyneside NHS Foundation Trust",0,40
+"242","University Hospitals Birmingham NHS Foundation Trust - Medical & Dental",0,40
+"243","Warrington and Halton Hospitals NHS Foundation Trust",40,40
+"244","Yorkshire Ambulance Service NHS Trust",0,40
+"245","B. Braun Avitum (UK) Ltd",0,39
+"246","East Midlands Ambulance Service NHS Trust",15,39
+"247","InHealth Ltd",0,38
+"248","OneMedicalGroup",0,38
+"249","Nottingham CityCare Partnership CIC",0,37
+"250","Provide CIC",0,37
+"251","Greenbrook Healthcare",0,35
+"252","Herts Urgent Care",0,35
+"253","Moorfields Eye Hospital NHS Foundation Trust",0,34
+"254","Alpha Care Homes Ltd",0,33
+"255","City Hospitals Sunderland NHS Foundation Trust",0,33
+"256","Shropshire Community Health NHS Trust",0,33
+"257","Benenden Hospital",0,32
+"258","HealthHarmonie Ltd",0,32
+"259","Turning Point",0,31
+"260","Virgin Care",0,31
+"261","Anglian Community Enterprise (CIC)",0,30
+"262","Lincolnshire Community Health Services NHS Trust",30,30
+"263","British Pregnancy Advisory Service (bpas)",0,29
+"264","Diaverum UK Ltd",0,29
+"265","The Practice",0,28
+"266","North Somerset Community Partnership",0,27
+"267","Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust",0,27
+"268","South East Coast Ambulance Service NHS Foundation Trust",0,27
+"269","Spectrum Community Health",0,27
+"270","First Community Health and Care",0,26
+"271","London Ambulance Service NHS Trust",0,25
+"272","NHS Blood and Transplant (NHSBT)",0,25
+"273","Queen Victoria Hospital NHS Foundation Trust",0,25
+"274","University Hospitals Birmingham (Heartlands, Good Hope, Solihull) - Medical & Dental",0,25
+"275","Health Education England",0,24
+"276","North of England Commissioning Support",0,24
+"277","Nursing Cohort",0,24
+"278","Primary Care Services",0,24
+"279","Care Plus Group",0,23
+"280","The Royal Orthopaedic Hospital NHS Foundation Trust",0,22
+"281","Wirral Community NHS Foundation Trust",0,22
+"282","North East Ambulance Service NHS Foundation Trust",0,21
+"283","North London Hospice",0,21
+"284","Northern, Eastern and Western Devon CCG",0,21
+"285","The Clatterbridge Cancer Centre NHS Foundation Trust",0,21
+"286","GP and Health Care Services",0,20
+"287","Locala Community Partnerships CIC",0,20
+"288","Mid Cheshire Hospitals NHS Foundation Trust : Medical Resourcing",0,20
+"289","North West Ambulance Service",0,20
+"290","(AS) Leeds Community Healthcare NHS Trust",0,19
+"291","NHS Professionals - Admin and Clerical Flexible Workers",0,19
+"292","St Andrew’s Healthcare",0,19
+"293","Healthshare Clinical Services",0,18
+"294","Midlands and Lancashire Commissioning Support Unit",0,18
+"295","NHS England",0,18
+"296","Surrey County Council",0,18
+"297","The Children's Trust",0,18
+"298","Public Health Wales NHS Trust",0,17
+"299","AT Medics",0,16
+"300","Abdominal Medicine and Surgery",0,16
+"301","Adult Therapies",0,16
+"302","Bristol, North Somerset and South Gloucestershire CCG",0,16
+"303","Health and Community Services Jersey",0,16
+"304","Liverpool Heart and Chest Hospital NHS Foundation Trust",0,16
+"305","Liverpool Womens NHS Foundation Trust",0,16
+"306","Wiltshire Council",0,16
+"307","(CS) Leeds Community Healthcare NHS Trust",0,15
+"308","(SP) Leeds Community Healthcare NHS Trust",0,15
+"309","Glenside Manor Healthcare Services",0,15
+"310","Horder Healthcare",0,15
+"311","South Western Ambulance Service NHS Foundation Trust",0,15
+"312","Thames Hospice",0,15
+"313","Health Education and Improvement Wales (HEIW)",0,14
+"314","Leeds Cancer Centre",0,14
+"315","Mountain Healthcare Ltd",0,14
+"316","Northern Lincolnshire and Goole NHS Foundation Trust",0,14
+"317","Tavistock and Portman NHS Foundation Trust",0,14
+"318","Newmedica",0,13
+"319","Walton Centre NHS Foundation Trust",0,13
+"320","East Coast Community Healthcare CIC",0,12
+"321","GP Practices - Aneurin Bevan University Health Board",0,12
+"322","GP Practices - Hywel Dda University Health Board",0,12
+"323","Health Intelligence Ltd",0,12
+"324","Leeds Children's Hospital",0,12
+"325","Local Care Direct",0,12
+"326","London Central and West Unscheduled Care Collaborative (LCW UCC)",0,12
+"327","Staffordshire, Shropshire, Telford and Wrekin and Herefordshire CCGs",0,12
+"328","University Hospitals of Derby and Burton NHS Foundation Trust (formerly Derby Teaching Hospitals NHSFT)",0,12
+"329","Velindre Cancer Centre",0,12
+"330","Countess Mountbatten Hospice",0,11
+"331","GP Practices - Betsi Cadwaladr University Health Board",0,11
+"332","NHS Professionals - Corporate Staff",0,11
+"333","Your Healthcare CIC",0,11
+"334","ABL Health Ltd",0,10
+"335","Barts Health Bank Recruitment ",0,10
+"336","Bridgewater Community Healthcare NHS Foundation Trust",0,10
+"337","Bury Clinical Commissioning Group",0,10
+"338","Emergency & Specialty Medicine",0,10
+"339","Linc Care",0,10
+"340","gtd healthcare",0,10
+"341","AGH Solutions Ltd",0,9
+"342","EMIS Care",0,9
+"343","Estates and Facilities",0,9
+"344","GP Care Uk Ltd",0,9
+"345","GP Practices - Cardiff and Vale University Health Board",0,9
+"346","Inclusion",0,9
+"347","Medicines Management & Pharmacy Services",0,9
+"348","North of England CCGs",0,9
+"349","(CC) Leeds Community Healthcare NHS Trust",0,8
+"350","Community Dental Services CIC",0,8
+"351","Consultants",0,8
+"352","Equilibrium Healthcare ",0,8
+"353","Hampshire County Council",0,8
+"354","Jeesal Akman Care Corporation",0,8
+"355","NHS Improvement",0,8
+"356","Peterborough City Council",0,8
+"357","St Peter's Hospice",0,8
+"358","Welsh Ambulance Service NHS Trust",0,8
+"359","Cumbria Health on Call (CHoC)",0,7
+"360","Farleigh Hospice",0,7
+"361","GP Practices - Abertawe Bro Morgannwg University Health Board",0,7
+"362","General Practices in W, N,E Cumbria ",0,7
+"363","Haven House Childrens Hospice",0,7
+"364","Jeesal Residential Services Ltd",0,7
+"365","London Borough of Bexley",0,7
+"366","Priory Medical Group",0,7
+"367","Saint Francis Hospice",0,7
+"368","St John's Hospice",0,7
+"369","Suffolk County Council",0,7
+"370","The Guy Pilkington Memorial Home",0,7
+"371","Trauma and Related Services",0,7
+"372","Elysium Healthcare",0,6
+"373","Greenwich and Bexley Community Hospice",0,6
+"374","NHS Great Yarmouth and Waveney CCG",0,6
+"375","NHS Hull CCG",0,6
+"376","NHS Surrey Downs CCG",0,6
+"377","St Margaret's Somerset Hospice",0,6
+"378","Viapath Analytics LLP",0,6
+"379","Alternative Futures Group",0,5
+"380","Children's Hospice South West ",0,5
+"381","Informatics",0,5
+"382","Leicester City, Leicestershire and Rutland CCG’s",0,5
+"383","Leicestershire Partnership NHS Trust - Medical Staffing",0,5
+"384","NHS Arden and Greater East Midlands Commissioning Support Unit",0,5
+"385","NHS Southern Derbyshire CCG",0,5
+"386","Northern Devon Healthcare Trust - Bank",0,5
+"387","Oldham Clinical Commissioning Group",0,5
+"388","Rowcroft Hospice",0,5
+"389","Spiral Health CIC",0,5
+"390","St Richard's Hospice",0,5
+"391","St. George Healthcare Group",0,5
+"392","Theatres and Anaesthesia",0,5
+"393","Viaduct Care CIC",0,5
+"394","Volunteering for TEWV",0,5
+"395","Wigan and Leigh Hospice",0,5
+"396","Cambridgeshire and Peterborough Clinical Commissioning Group",0,4
+"397","Cardio-Respiratory",0,4
+"398","Corporate",0,4
+"399","Dorset Clinical Commissioning Group",0,4
+"400","East and North Herts CCG",0,4
+"401","GP Surgeries and Medical Centres",0,4
+"402","Garden House Hospice Care",0,4
+"403","Guildford and Waverley CCG",0,4
+"404","Helen and Douglas House",0,4
+"405","Herts and West Essex STP",0,4
+"406","Kernow Clinical Commissioning Group",0,4
+"407","NHS Barnsley Clinical Commissioning Group",0,4
+"408","NHS Brent CCG",0,4
+"409","NHS Professionals - Doctors",0,4
+"410","North East Essex Clinical Commissioning Group",0,4
+"411","Oxfordshire County Council",0,4
+"412","Partnering Health",0,4
+"413","Partnership of East London Cooperatives Ltd (PELC)",0,4
+"414","Pathology",0,4
+"415","Peninsula Dental Social Enterprise Community Interest Company",0,4
+"416","Pilgrims Hospices in East Kent",0,4
+"417","Radiology",0,4
+"418","Redcar and Cleveland Borough Council",0,4
+"419","Richard House Children's Hospice",0,4
+"420","SSP Health",0,4
+"421","Salford Clinical Commissioning Group",0,4
+"422","Thames Ambulance Service Limited",0,4
+"423","Vaccination UK Ltd",0,4
+"424","Warrington Clinical Commissioning Group",0,4
+"425","Women's Services",0,4
+"426","Ambley Care Ltd",0,3
+"427","Barnsley Facilities Services",3,3
+"428","Calderdale and Huddersfield Solutions Ltd",0,3
+"429","Camden Clinical Commissioning Group",0,3
+"430","Centre for Neurosciences",0,3
+"431","Claremont Private Hospital",0,3
+"432","Community Links (Northern)",0,3
+"433","Dorothy House Hospice Care",0,3
+"434","Ealing Council",0,3
+"435","Enfield Clinical Commissioning Group",0,3
+"436","Global Diagnostics Ltd",0,3
+"437","Hafal Gellinudd Recovery Centre",0,3
+"438","Hope Citadel Healthcare",0,3
+"439","Isabel Hospice ",0,3
+"440","Islington Clinical Commissioning Group",0,3
+"441","London Borough of Newham",0,3
+"442","London Borough of Sutton",0,3
+"443","Luton Clinical Commissioning Group",0,3
+"444","NEL Commissioning Support Unit",0,3
+"445","NHS Blackpool CCG",0,3
+"446","NHS Doncaster Clinical Commissioning Group",0,3
+"447","NHS Herts Valleys Clinical Commissioning Group",0,3
+"448","NHS Norwich CCG",0,3
+"449","NHS Scarborough and Ryedale CCG",0,3
+"450","P J Care Ltd",0,3
+"451","Royal Trinity Hospice",0,3
+"452","Rutland County Council",0,3
+"453","St Barnabas Hospice",0,3
+"454","St Luke's Hospice (Plymouth)",0,3
+"455","St Rocco's Hospice",0,3
+"456","St. Oswald's Hospice",0,3
+"457","Symphony ",0,3
+"458","The Katharine House Hospice",0,3
+"459","UHB+ (In-House Staff Bank) - University Hospital Birmingham NHS Foundation Trust ",0,3
+"460","Welsh Blood Service",0,3
+"461","Wyre Forest Health Partnership",0,3
+"462","change, grow, live (CGL)",0,3
+"463","Banes Enhanced Medical Services + (BEMS+)",0,2
+"464","Barnsley Metropolitan Borough Council",0,2
+"465","Bedfordshire Clinical Commissioning Group",0,2
+"466","Birmingham and Solihull CCG",0,2
+"467","Care Unbound Limited, trading as Here",0,2
+"468","Castle Point and Rochford Clinical Commissioning Group",0,2
+"469","City of York Council",0,2
+"470","Communitas Clinics",0,2
+"471","Compton Care",0,2
+"472","Devon County Council",0,2
+"473","Dudley CCG",0,2
+"474","Finance",0,2
+"475","GP Practices - Powys Teaching Health Board",0,2
+"476","Harrogate Healthcare Facilities Management",0,2
+"477","Harrow Health CIC",0,2
+"478","Head and Neck",0,2
+"479","Islington Council",0,2
+"480","Keech Hospice Care",0,2
+"481","Leeds City Council",0,2
+"482","Leeds Teaching Hospitals NHS Trust",0,2
+"483","Ludlow Street Healthcare Group Ltd",0,2
+"484","Medical Directorate",0,2
+"485","Medical Imaging Partnership Ltd",0,2
+"486","Medical Recruitment",0,2
+"487","Midlands Partnership NHS Foundation Trust (formerly South Staffordshire and Shropshire NHS FT)",0,2
+"488","NHS Business Services Authority",0,2
+"489","NHS Central London CCG",0,2
+"490","NHS Counter Fraud Authority",0,2
+"491","NHS Digital - Information Management",0,2
+"492","NHS Hambleton, Richmondshire and Whitby CCG",0,2
+"493","NHS Leeds Clinical Commissioning Group",0,2
+"494","NHS Mansfield and Ashfield CCG",0,2
+"495","NHS North Derbyshire CCG",0,2
+"496","NHS North Kirklees CCG",0,2
+"497","NHS North Norfolk CCG",0,2
+"498","NHS Vale of York CCG",0,2
+"499","North East Lincolnshire CCG ",0,2
+"500","North Lincolnshire CCG",0,2
+"501","Rainbows Hospice for Children and Young People",0,2
+"502","Ripplez Community Interest Company",0,2
+"503","Royal Borough of Kingston upon Thames",0,2
+"504","Self Help - The Big Life Group",0,2
+"505","Somerset County Council",0,2
+"506","St Joseph's Hospice",0,2
+"507","Swindon Borough Council",0,2
+"508","West Essex Clinical Commissioning Group",0,2
+"509","Adult Critical Care",0,1
+"510","Alliance Medical Ltd",0,1
+"511","Barnet Clinical Commissioning Group",0,1
+"512","Basildon and Brentwood Clinical Commissioning Group",0,1
+"513","Bradford District & Craven CCGs",0,1
+"514","CARE Fertility",0,1
+"515","Chapel Allerton",0,1
+"516","City Hospitals Independent Commercial Enterprises Ltd ",0,1
+"517","City and Hackney Clinical Commissioning Group",0,1
+"518","Connect Healthcare CIC",0,1
+"519","Coventry and Rugby CCG",0,1
+"520","Dorking Healthcare Limited ",0,1
+"521","Firsway Health Centre",0,1
+"522","GP Practices - Cwm Taf University Health Board",0,1
+"523","Gloucestershire Managed Services",0,1
+"524","Human Resources",0,1
+"525","Knowsley Clinical Commissioning Group",0,1
+"526","Leeds Community Healthcare NHS Trust",0,1
+"527","Leeds Dental Institute",0,1
+"528","Marie Stopes UK",0,1
+"529","Mid Essex Clinical Commissioning Group",0,1
+"530","Midlands Psychology CIC",0,1
+"531","Morecambe Bay CCG",0,1
+"532","NHS Digital",0,1
+"533","NHS Digital - Clinical Informatics",0,1
+"534","NHS East Riding of Yorkshire CCG",0,1
+"535","NHS Hardwick CCG",0,1
+"536","NHS Harrogate and Rural District CCG",0,1
+"537","NHS Lincolnshire West CCG",0,1
+"538","NHS Liverpool Clinical Commissioning Group",0,1
+"539","NHS Milton Keynes CCG",0,1
+"540","NHS Newark and Sherwood CCG",0,1
+"541","NHS Rotherham Clinical Commissioning Group",0,1
+"542","NHS Sheffield Clinical Commissioning Group",0,1
+"543","NHS South West Lincolnshire CCG",0,1
+"544","NHS Tameside and Glossop Clinical Commissioning Group",0,1
+"545","NHS Wakefield CCG",0,1
+"546","NHS West Norfolk CCG",0,1
+"547","North East Lincolnshire Council",0,1
+"548","Northern Devon Healthcare Trust - Medical & Dental",0,1
+"549","Nottingham City Clinical Commissioning Group",0,1
+"550","One to One Midwives",0,1
+"551","Outpatients",0,1
+"552","Peace Hospice Care",0,1
+"553","Portsmouth City Council",0,1
+"554","Portsmouth Hospitals NHS Trust (FM)",0,1
+"555","Primary Care 24",0,1
+"556","Principal Medical Ltd",0,1
+"557","READING BOROUGH COUNCIL",0,1
+"558","Rennie Grove Hospice Care",0,1
+"559","Royal Borough of Greenwich ",0,1
+"560","Shooting Star Chase",0,1
+"561","Somerset Clinical Commissioning Group",0,1
+"562","South Cheshire Clinical Commissioning Group",0,1
+"563","South Kent Coast Clinical Commissioning Group",0,1
+"564","Southend Borough Council",0,1
+"565","St Cuthbert's Hospice",0,1
+"566","St Giles Hospice",0,1
+"567","St Helens Clinical Commissioning Group",0,1
+"568","St James Medical Practice",0,1
+"569","St Teresa's Hospice",0,1
+"570","The Clatterbridge Pharmacy Limited (Trading as PharmaC)",0,1
+"571","The Hospice of Our Lady and St John (Willen Hospice)",0,1
+"572","The London Clinic",0,1
+"573","The Robert Darbishire Practice",0,1
+"574","Thurrock Clinical Commissioning Group",0,1
+"575","Tilehurst Surgery Partnership",0,1
+"576","Trafford Clinical Commissioning Group",0,1
+"577","Vernova Healthcare CIC",0,1
+"578","Wandsworth Borough Council",0,1
+"579","West Cheshire Clinical Commissioning Group",0,1
+"580","Wigan Borough Clinical Commissioning Group",0,1
+"581","Willowbrook Medical Practice",0,1

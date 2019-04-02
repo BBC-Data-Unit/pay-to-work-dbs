@@ -1,0 +1,60 @@
+---
+title: "NHS DBS ads"
+output: html_notebook
+---
+
+# Analysing NHS ads
+
+I've scraped over 40,000 job ads in the NHS. This code identifies which ones mention DBS checks and which of those also mention deductions.
+
+There are about 4.2m DBS disclosures a year according to [this](https://www.gov.uk/government/statistics/dbs-dataset-1-disclosure-progress-information-disclosed-and-update-service-subscriptions)
+
+ 
+
+
+
+```{r}
+#Read in the CSV - it's big so it takes a while
+nhsjobs <- read.csv("nhsjobs.csv")
+```
+
+Let's take a look...
+
+```{r}
+head(nhsjobs)
+```
+
+
+Now the query
+
+```{r}
+library(sqldf)
+deductionbyemployer <- sqldf::sqldf("SELECT employer, sum(deduc), count(*) 
+                                    FROM nhsjobs 
+                                    WHERE dbscount >0 
+                                    GROUP BY employer 
+                                    ORDER BY sum(deduc) desc")
+```
+
+We can actually run the same SQL query in the scraper and then fetch the resulting JSON:
+
+```{r}
+library(jsonlite)
+jsonlink <- "https://premium.scraperwiki.com/hode44i/333abfc55ade437/sql/?q=select%20employer%2C%20sum(deduc)%2C%20count(*)%0Afrom%20nhsjobs%0Awhere%20dbscount%20%3E%200%0Agroup%20by%20employer%0Aorder%20by%20count(*)%20desc"
+employertable <- fromJSON(jsonlink)
+```
+
+Then export:
+
+```{r}
+write.csv(employertable, "employertable.csv")
+```
+
+Grab all the Manchester jobs:
+
+```{r}
+mcrurl <- "https://premium.scraperwiki.com/hode44i/333abfc55ade437/sql/?q=select%20*%0Afrom%20nhsjobs%0Awhere%20employer%20%3D%20%22Manchester%20University%20NHS%20Foundation%20Trust%22%0A"
+mcrdata <- fromJSON(mcrurl)
+write.csv(mcrdata, "mcrdata.csv")
+```
+
