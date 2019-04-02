@@ -21,3 +21,8 @@ In March 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47540601) that
 ## Visualisation
 
 * Table: NHS jobs advertised with deductions from salaries for DBS checks, by employer (January-March 2019)
+
+## Code
+
+* [Python scraper](https://github.com/BBC-Data-Unit/pay-to-work-dbs/blob/master/nhsjobsscraper.py)
+* [RMarkdown notebook which queries the scraper](https://github.com/BBC-Data-Unit/pay-to-work-dbs/blob/master/dbsads.Rmd)
